@@ -1,1 +1,2 @@
-Alisa-Gasyak (https://github.com/Alisa-Gasyak)
+Гасяк Алиса репозиторий с заданиями для прохождения практики
+(https://github.com/Alisa-Gasyak)
